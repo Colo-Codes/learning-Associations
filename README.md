@@ -1,2 +1,2 @@
 # learning-Associations
-Learning data models and associations
+Learning data models and associations.
